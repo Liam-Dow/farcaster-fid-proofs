@@ -40,8 +40,8 @@ This tool connects to a [Hubble](https://www.thehubble.xyz/intro/hubble.html) ho
 | Variable | Description | Default | 
 |----------|-------------|---------|
 | `DB_PATH` | Path to SQLite database file | '/path/to/your/sqlite/db.sqlite' |
-| `FC_HOST` | Farcaster hub hostname | 'nemes.farcaster.xyz' |
-| `FC_HTTP_PORT` | Hub HTTP port | 2281 |
+| `FC_HOST` | Hubble hostname (Farcasters public Hubble host set as default) | 'nemes.farcaster.xyz' |
+| `FC_HTTP_PORT` | HTTP port | 2281 |
 | `START_FID` | First Farcaster ID to scrape | 1 |
 | `END_FID` | Last Farcaster ID to scrape | 906000 |
 | `MAX_WORKERS` | Maximum number of concurrent threads | 20 |
