@@ -1,4 +1,4 @@
-# Farcaster FID 
+# Retrieve & Store Farcaster FID Proofs
 
 A multithreaded Python script designed to efficiently scrape and store Farcaster user proofs in a SQLite database. 
 
