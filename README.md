@@ -24,7 +24,7 @@ This tool connects to a [Hubble](https://www.thehubble.xyz/intro/hubble.html) ho
 
 1. Clone this repository:
    ```bash
-   git clone https://github.com/yourusername/farcaster-scraper.git
+   git clone https://github.com/Liam-Dow/farcaster-fid-proofs
    cd farcaster-scraper
    ```
 
