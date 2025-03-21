@@ -1,3 +1,5 @@
+📌 Note: I created this as a data source for an onchain screener app to help determine a social trust score, the script simply retrieves and stores publicly accessible data from Farcaster. 
+
 # Retrieve & Store Farcaster Proofs
 
 A multithreaded Python script designed to efficiently scrape and store Farcaster user proofs (FID, username, and owner address) in a SQLite database. 
